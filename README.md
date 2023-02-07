@@ -4,7 +4,7 @@
 
 !!! It only works well in **DARK** color scheme !!!
 
-![cover](/image/cover.png)
+![cover](/image/head.png)
 
 ### Installation
 + Manual installation
